@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+            Tim Hamilton
+        </p>
       </header>
     </div>
   );
