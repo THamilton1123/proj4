@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
         <p>
-            Tim Hamilton!!!
+            Tim Hamilton
         </p>
       </header>
     </div>
